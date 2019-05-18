@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MDHomework8</string>
+
+    <!--StyleActivity-->
+    <string name="button1">Кнопка 1</string>
+    <string name="button2">Кнопка 2</string>
+    <string name="button3">Кнопка 3</string>
+    <string name="button4">Кнопка 4</string>
+    <string name="button5">Кнопка 5</string>
+
+</resources>
